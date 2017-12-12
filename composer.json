@@ -1,0 +1,16 @@
+{
+    "name": "vlp/composer-php",
+    "description": "testando composer",
+    "authors": [
+        {
+            "name": "Leonardo Volpato",
+            "email": "leonardozv92@gmail.com"
+        }
+    ],
+    "require": {
+    	"php": ">=5.3.3"
+    },
+    "require-dev": {
+    	"phpunit/phpunit": "^4.3"
+    }
+}
